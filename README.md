@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on UI/UX Designers <br>🧑🏼‍🎓 Undergraduate SE at BCU<br>🧑‍💻 I’m currently learning Coding <br>💬 Ask me about Programming <br>
+🔭 I’m currently working on UI/UX Designer and Java Developer | Photographer  <br>🧑🏼‍🎓 Undergraduate SE at BCU Uk<br>🧑‍💻 I’m currently learning Coding <br>💬 Ask me about Programming <br>
 
 
 ## 🌐 Socials:
