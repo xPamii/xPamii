@@ -25,6 +25,6 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xPamii&icon=1&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=xPamii&label=Profile%20Impressions&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
