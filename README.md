@@ -69,7 +69,7 @@
 </p>
 
 <p>
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=xpamii&theme=radical" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xpamii&theme=radical" alt="Streak Stats" />
 </p>
 
 ---
