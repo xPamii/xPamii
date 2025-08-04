@@ -1,3 +1,9 @@
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00FF00&background=FFFFFF00&lines=Welcome+to+my+profile!;My+name+is+Danil+Borkov;I'm+an+Android+Developer&center=true"; alt="Typing SVG" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Pamith Herath</h1>
 <h3 align="center">A passionate Full-Stack Software Developer from Sri Lanka.</h3>
 
