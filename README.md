@@ -1,6 +1,7 @@
 <!-- Matrix Background SVG -->
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
+
 <!-- Typing SVG Banner (Dark Mode) -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I'm+Pamith+Herath;Full-Stack+Developer+%7C+Java;Let’s+build+something+amazing+🚀" alt="Typing SVG" />
